@@ -8,4 +8,11 @@
     <string name="platoBtn">Plato</string>
     <string name="postreBtn">Postre</string>
     <string name="bebidaBtn">Bebida</string>
+    
+    <string name="nombrePP">Nombre</string>
+    <string name="correoPP">Correo Electronico</string>
+    <string name="nombreTarjetaPP">Tarjeta</string>
+    <string name="fechaVenPP">Fecha Vencimiento</string>
+    <string name="confirmarPP">Confirmar Pago</string>
+    <string name="cancelarPP">Cancelar Pago</string>
 </resources>
